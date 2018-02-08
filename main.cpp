@@ -1,4 +1,4 @@
-// GR-PEACH mbed style project (template V2.02)
+// GR-PEACH mbed style project (template V2.03)
 // main.cpp: Public domain
 #include "mbed.h"
 
